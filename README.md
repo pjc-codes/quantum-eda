@@ -4,7 +4,7 @@ This repository contains a Jupyter notebook for exploring and cleaning a mock da
 
 ## Contents
 
-- `practice.ipynb`: The main notebook containing data analysis.
+- `quantum_eda.ipynb`: The main notebook containing data analysis.
 - `quantum_data.csv`: Mock dataset of quantum experiment.
 - `data_set_maker.ipynb`: Notebook containing code for creating the mock data.
 - `README.md`: Project overview and usage instructions.
